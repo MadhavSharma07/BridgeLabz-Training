@@ -11,10 +11,11 @@ public class MultipleLessThan100UsingWhileLoop {
         int counter = number-1;
 
         if(number>0 && number<=100){
-            while(counter>1){      // loop iterates from 100 to 1
+            while(counter>=1){      // loop iterates from 100 to 1
                 if(number%counter==0){              // number is divided by counter
                     System.out.println("The multiples of "+number+" are "+counter);     // print the output
                 }
+                counter--;
             }
         }
 
