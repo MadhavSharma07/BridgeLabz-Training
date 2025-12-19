@@ -21,6 +21,9 @@ public class FizzBuzzUsingForLoop {
             else if(i%3==0 && i%5==0){
                 System.out.println("FizzBuzz");
             }
+            else{
+                System.out.println(number);
+            }
         }
 
     }
