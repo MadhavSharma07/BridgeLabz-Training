@@ -1,8 +1,8 @@
-package BridgeLabz
+package BridgeLabz-Training.core-java-practice.gcr-codebase.programming-elements;
 
 import java.util.Scanner;
 
--Training.core-java-practice.gcr-codebase.programming-elements;
+
 
 public class Calculator {
     public static void main(String[] args) {
