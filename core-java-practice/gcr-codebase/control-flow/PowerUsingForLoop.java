@@ -23,6 +23,8 @@ public class PowerUsingForLoop {
             System.out.println("Enter the valid input");
         }
 
+        System.out.println("The result is "+result);
+
         
     }
 }
