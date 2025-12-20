@@ -1,6 +1,6 @@
 package BridgeLabz-Training.core-java-practice.gcr-codebase.control-flow;
 
-import java.util.*:
+import java.util.*;
 
 public class AbundantNumber {
     public static void main(String[] args) {
