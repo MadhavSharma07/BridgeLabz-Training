@@ -16,9 +16,9 @@ public class EvenOddArray {
 
         for (int i = 1; i <= number; i++) {
             if (i % 2 == 0) {          // even elements
-                evenArray[oddIndex++] = i;
+                evenArray[evenIndex++] = i;
             } else {              // odd elements
-                oddArray[evenIndex++] = i;
+                oddArray[oddIndex++] = i;
             }
         }
 
