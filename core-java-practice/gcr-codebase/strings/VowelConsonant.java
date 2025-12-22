@@ -40,5 +40,6 @@ public class VowelConsonant {
                 consonants++;
             }
         }
+        return new int[]{vowels, consonants};
     }
 }
