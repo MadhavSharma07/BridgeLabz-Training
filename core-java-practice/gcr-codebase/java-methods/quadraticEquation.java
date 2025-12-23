@@ -2,7 +2,7 @@ package BridgeLabz-Training.core-java-practice.gcr-codebase.java-methods;
 
 import java.util.*;
 
-public class quadraticEquation {
+public class QuadraticEquation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter value of a: ");
