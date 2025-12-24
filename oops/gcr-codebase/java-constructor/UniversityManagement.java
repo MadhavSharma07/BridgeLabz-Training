@@ -34,7 +34,7 @@ class Student {
     }
 
    
-    public void updateCGPA(double cgpa) {      //method to modify CGPA
+    public void setCGPA(double cgpa) {      //setter method to modify CGPA
         this.cgpa = cgpa;
     }
 
