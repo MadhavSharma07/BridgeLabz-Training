@@ -122,6 +122,7 @@ public class EmployeeWageComputation {  // main class
         System.out.println("The daily wage of employee is: "+employee.getDailyWage(employeeStatus));
 
         employee.getMonthlyWage();
+    
     }
     
 }
