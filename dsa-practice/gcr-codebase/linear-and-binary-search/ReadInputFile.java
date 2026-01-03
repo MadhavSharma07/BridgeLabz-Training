@@ -2,7 +2,7 @@ import java.io.*;
 
 public class ReadInputFile{
     public static void main(String[] args) {
-        String path="file.txt";  // path of file 
+        String path="input.txt";  // path of file 
 
         try{
             FileReader fileReader = new FileReader(path);  // file reader object
