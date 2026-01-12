@@ -76,7 +76,7 @@ BridgeLabz-Training/
 - Introduction to BridgeLabz training process and guidelines
 - Completed *5 LeetCode problems* as the introductory task
 
-📂 Folder: leet-code-codebase
+📂 Folder: [core-java-practice/leet-code-codebase](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/core-java-practice/core-java-practice/leet-code-codebase)     
 
 ---
 ## Core Java Practice
@@ -272,14 +272,16 @@ BridgeLabz-Training/
 ### ✅ 29 December  
 *Started DSA Practice*  
 - Created **dsa-practice** branch for data structures learning  
-- Learned and completed assignments on **Linked List**  
+- Learned and completed assignments on **Linked List**
+- Do scenario based questions (BMI Calculator or Ravi's Coffee Counter) of Core java  
 
 *Topics Covered:*  
 - Singly Linked List  
 - Doubly Linked List  
 - Circular Linked List  
 
-📂 Folder:[dsa-practice\gcr-codebase\linkedlist](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)
+📂 Folder: [ dsa-practice\gcr-codebase\linkedlist](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/linkedlist)   
+📂 Folder: [ core-java-practice\scenario-based](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based)
 
 ---
 
@@ -294,21 +296,25 @@ BridgeLabz-Training/
 - Hashing Function  
 - Sorting Algorithms  
 
-📂 Folder:[dsa-practice\gcr-codebase\stack-queue-and-hashingfunction](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-and-hashingfunction)      
-📂 Folder:[dsa-practice\gcr-codebase\sorting-algorithms](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
+📂 Folder: [dsa-practice\gcr-codebase\stack-queue-and-hashingfunction](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue-and-hashingfunction)      
+📂 Folder: [dsa-practice\gcr-codebase\sorting-algorithms](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)
 
 ---
 
 ### ✅ 31 December  
 *DSA Practice – Searching Algorithms*  
 - Learned and implemented basic **searching techniques**  
-- Practiced algorithms through assignments  
+- Practiced algorithms through assignments
+- Do *Employee wage computation* scenario program
 
 *Topics Covered:*  
 - Linear Search  
 - Binary Search
+- oops
 
-📂 Folder:[dsa-practice\gcr-codebase\sorting-algorithms](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)  
+📂 Folder:[dsa-practice\gcr-codebase\sorting-algorithms](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting-algorithms)        
+📂 Folder:[oops-practice\scenario-based\EmployeeWageComputation](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
 
 ---
 
@@ -347,13 +353,70 @@ BridgeLabz-Training/
 ---
 
 ### ✅ 5 January  
-*Review*  
+**Review**  
 - Created **reviews** branch  
 - Provided review and take feedback on completed work  
 
 📂 Folder: [ reviews/](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/reviews/reviews)   
 
 ---
+
+### ✅ 6 January  
+*Collections Framework Practice*  
+- Learned and practiced **Java Collections Framework**  
+- Completed assignments for hands-on understanding  
+
+*Topics Covered:*  
+- List  
+- Set  
+- Map  
+- Queue  
+
+📂 Folder: [collections-practice/gcr-codebase/collections](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)   
+
+---
+
+### ✅ 7 January  
+*Java Input/Output Streams Practice*  
+- Learned **Java I/O Streams**  
+- Practiced file handling through assignments  
+
+*Topics Covered:*  
+- Byte Streams  
+- Character Streams  
+- File Input and Output  
+
+📂 Folder: [collections-practice/gcr-codebase/java-streams](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/java-streams)    
+
+---
+
+### ✅ 8 and 9 January  
+*Exception Handling Practice*  
+- Learned **Java Exception Handling** concepts  
+- Completed assignments for better understanding  
+
+*Topics Covered:*  
+- Try–Catch  
+- Multiple Catch Blocks  
+- Finally Block  
+- Custom Exceptions
+
+📂 Folder: [collections-practice/gcr-codebase/exception-handling](https://github.com/MadhavSharma07/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exception-handling)   
+
+---
+
+### ✅ 11 January  
+*Scenario-Based Program Practice*  
+- Designed and implemented a **Flight Booking System** program  
+- Applied **OOP concepts** in a real-world scenario  
+
+📂 Folder: [oops-practice/scenario-based/FlightBookingSystem](https://github.com/MadhavSharma07/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/FlightBookingSystem.java)   
+
+---
+
+
+
+
 
 
 
