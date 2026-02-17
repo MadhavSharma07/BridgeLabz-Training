@@ -3,7 +3,7 @@ package employee_wage;
 import java.util.*;
 import java.util.stream.*;
 
-class EmpWageBuilder implements BuilderInterface {
+public class EmpWageBuilder implements BuilderInterface {
 
     private List<Company> companies = new ArrayList<>();
     private Random random = new Random();
