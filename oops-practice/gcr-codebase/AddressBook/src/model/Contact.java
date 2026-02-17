@@ -1,5 +1,6 @@
 package model;
 
+
 public class Contact {
 
     private String firstName;
@@ -20,21 +21,12 @@ public class Contact {
         this.phone = phone;
     }
 
-    public String getFirstName() {
-        return firstName;
-    }
-
-    public String getCity() {
-        return city;
-    }
-
-    public String getState() {
-        return state;
-    }
-
-    public String getZip() {
-        return zip;
-    }
+    public String getFirstName() { return firstName; }
+    public String getLastName() { return lastName; }
+    public String getCity() { return city; }
+    public String getState() { return state; }
+    public String getZip() { return zip; }
+    public String getPhone() { return phone; }
 
     @Override
     public boolean equals(Object obj) {
@@ -51,3 +43,4 @@ public class Contact {
                 " | " + phone;
     }
 }
+
