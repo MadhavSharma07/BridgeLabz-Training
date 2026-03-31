@@ -413,6 +413,345 @@ BridgeLabz-Training/
 📂 Folder: [oops-practice/scenario-based/FlightBookingSystem](https://github.com/MadhavSharma07/BridgeLabz-Training/blob/oops-practice/oops-practice/scenario-based/FlightBookingSystem.java)   
 
 ---
+# 🧵 Multi-Threading Practice
+
+### ✅ 11 January  
+*Scenario-Based Program Practice*  
+- Designed and implemented a **Flight Booking System**  
+- Applied OOP concepts in real-world scenario  
+
+*Topics Covered:*  
+- Class design  
+- Object interaction  
+- Basic system design  
+
+---
+
+### ✅ 12 January  
+*Introduction to Multithreading*  
+- Learned basics of concurrent programming  
+
+*Topics Covered:*  
+- Thread lifecycle  
+- Creating thread using Thread class  
+- Creating thread using Runnable interface  
+
+---
+
+### ✅ 13 January  
+*Thread Execution & Methods*  
+- Practiced controlling thread execution  
+
+*Topics Covered:*  
+- start() vs run()  
+- sleep()  
+- join()  
+- Thread priority  
+
+---
+
+### ✅ 14 January  
+*Thread Synchronization*  
+- Learned handling shared resources  
+
+*Topics Covered:*  
+- synchronized keyword  
+- critical section  
+- race condition  
+
+---
+
+### ✅ 15 January  
+*Inter-Thread Communication*  
+- Managed coordination between threads  
+
+*Topics Covered:*  
+- wait()  
+- notify()  
+- notifyAll()  
+
+---
+
+# ⚡ Java 8 Features Practice
+
+### ✅ 16 January  
+*Lambda Expressions*  
+- Introduced functional programming style  
+
+*Topics Covered:*  
+- Syntax of lambda  
+- Functional interfaces  
+
+---
+
+### ✅ 17 January  
+*Functional Interfaces*  
+- Practiced built-in interfaces  
+
+*Topics Covered:*  
+- Predicate  
+- Function  
+- Consumer  
+- Supplier  
+
+---
+
+### ✅ 18 January  
+*Stream API Basics*  
+- Worked on collection processing  
+
+*Topics Covered:*  
+- filter()  
+- map()  
+- collect()  
+
+---
+
+### ✅ 19 January  
+*Advanced Stream Operations*  
+- Solved problems using streams  
+
+*Topics Covered:*  
+- sorted()  
+- distinct()  
+- reduce()  
+- groupingBy()  
+
+---
+
+### ✅ 20 January  
+*Optional Class*  
+- Learned null-safe programming  
+
+*Topics Covered:*  
+- Optional methods  
+- isPresent(), orElse()  
+
+---
+
+# 📂 IO Programming Practice
+
+### ✅ 21 January  
+*File Handling Basics*  
+- Worked with files  
+
+*Topics Covered:*  
+- File class  
+- createNewFile()  
+- file operations  
+
+---
+
+### ✅ 22 January  
+*File Reading & Writing*  
+- Implemented file I/O  
+
+*Topics Covered:*  
+- FileReader  
+- FileWriter  
+
+---
+
+### ✅ 23 January  
+*Buffered Streams*  
+- Improved performance  
+
+*Topics Covered:*  
+- BufferedReader  
+- BufferedWriter  
+
+---
+
+### ✅ 24 January  
+*Byte & Character Streams*  
+- Learned stream types  
+
+*Topics Covered:*  
+- InputStream  
+- OutputStream  
+
+---
+
+# 🗄️ DBMS Practice
+
+### ✅ 25 January  
+*Introduction to DBMS*  
+- Learned database basics  
+
+*Topics Covered:*  
+- DBMS concepts  
+- Tables and schema  
+
+---
+
+### ✅ 26 January  
+*SQL Queries Practice*  
+- Practiced basic queries  
+
+*Topics Covered:*  
+- SELECT  
+- INSERT  
+- UPDATE  
+- DELETE  
+
+---
+
+### ✅ 27 January  
+*Filtering and Conditions*  
+- Applied conditions in queries  
+
+*Topics Covered:*  
+- WHERE clause  
+- AND, OR  
+
+---
+
+### ✅ 28 January  
+*Joins*  
+- Combined multiple tables  
+
+*Topics Covered:*  
+- INNER JOIN  
+- LEFT JOIN  
+- RIGHT JOIN  
+
+---
+
+### ✅ 29 January  
+*Aggregation Functions*  
+- Worked on data analysis  
+
+*Topics Covered:*  
+- COUNT  
+- SUM  
+- AVG  
+
+---
+
+### ✅ 30 January  
+*Group By & Having*  
+- Grouped and filtered data  
+
+*Topics Covered:*  
+- GROUP BY  
+- HAVING  
+
+---
+
+# 🧠 DSA Advanced Practice
+
+### ✅ 1 February  
+*Recursion Practice*  
+- Solved recursion problems  
+
+*Topics Covered:*  
+- Base case  
+- Recursive calls  
+
+---
+
+### ✅ 2 February  
+*Sorting Practice*  
+- Implemented sorting  
+
+*Topics Covered:*  
+- Bubble Sort  
+- Selection Sort  
+
+---
+
+### ✅ 3 February  
+*Searching Practice*  
+- Strengthened searching logic  
+
+*Topics Covered:*  
+- Binary search optimization  
+
+---
+
+### ✅ 4 February  
+*Stack Problems*  
+- Solved real problems  
+
+*Topics Covered:*  
+- Balanced parentheses  
+- Stack operations  
+
+---
+
+### ✅ 5 February  
+*Queue Problems*  
+- Implemented queue logic  
+
+*Topics Covered:*  
+- FIFO operations  
+
+---
+
+### ✅ 6 February  
+*Hashing Practice*  
+- Used hashing for optimization  
+
+*Topics Covered:*  
+- HashMap usage  
+- Frequency counting  
+
+---
+
+### ✅ 7 February  
+*LeetCode Practice*  
+- Solved multiple problems  
+
+---
+
+### ✅ 8 February  
+*Time Complexity Analysis*  
+- Improved performance thinking  
+
+---
+
+# 🔁 Revision & Practice
+
+### ✅ 9 February  
+- Revised Core Java concepts  
+- Practiced coding questions  
+
+---
+
+### ✅ 10 February  
+- Revised OOP concepts  
+- Solved scenario-based problems  
+
+---
+
+### ✅ 11 February  
+- Revised Collections & Streams  
+- Practiced interview questions  
+
+---
+
+### ✅ 12 February  
+- Revised DSA concepts  
+- Solved coding problems  
+
+---
+
+### ✅ 13 February  
+- Practiced mixed problems  
+- Improved problem-solving speed  
+
+---
+
+### ✅ 14 February  
+- Mock interview preparation  
+- Focused on weak areas  
+
+---
+
+### ✅ 15 February  
+- Final revision  
+- Strengthened overall concepts  
+- Ready for interviews 🚀  
 
 
 
